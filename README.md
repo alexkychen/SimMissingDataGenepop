@@ -1,7 +1,7 @@
 # SimMissingDataGenepop
 Simulate missing data for Genepop format data
 
-<b>Description<\b>
+<b>Description</b>
 
 Randomly replace alleles with null alleles (e.g., 0000 in 4 digit data) across overall data set. You can determine how many percent of data to be missing. For example, if a data set includes a total of 10,000 loci given from 50 individuals and 200 loci, and 5% of missing data is determined, then 500 out of 10,000 loci will become null in the data set.
 
